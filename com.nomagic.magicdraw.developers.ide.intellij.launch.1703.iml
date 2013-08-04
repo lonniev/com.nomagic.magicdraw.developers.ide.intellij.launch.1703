@@ -7,7 +7,7 @@
     <orderEntry type="library" name="MD-first" level="application" />
     <orderEntry type="library" name="MD-for-logging" level="application" />
     <orderEntry type="library" name="MD-for-compile" level="application" />
-    <orderEntry type="library" name="MagicDraw-17.0.3-rest" level="application" />
+    <orderEntry type="library" name="Magicdraw-17.0.3-rest" level="application" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
